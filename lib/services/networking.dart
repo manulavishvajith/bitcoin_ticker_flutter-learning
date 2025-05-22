@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 const apiURL = 'https://rest.coinapi.io/v1/exchangerate';
-const apiKey = 'C30F0DFF-4F57-4C1F-928E-1B2CEE17B6D5';
+const apiKey = '';
 
 class Networking {
 
